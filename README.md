@@ -4,4 +4,6 @@ Webservice training app
 Done using springboot. 
 Training by pluralsight. 
 
-Gonçalo Oliveira 2020
+Gonçalo Oliveira 
+Copyright 2020
+
