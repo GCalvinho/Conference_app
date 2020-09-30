@@ -1,0 +1,13 @@
+
+[
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ
+0
+java:S3751"Make this method "public".(ùìëÍ
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÏþëÇøÿÿÿÿ
+i
+java:S4488#"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(…Ìò³ÿÿÿÿÿ
+[
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(âþ¾Äûÿÿÿÿ
+^
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ç±èã
