@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+<%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
+
 <html>
 
 <head>
@@ -8,8 +11,9 @@
     <meta name=”viewport” content=”width=device-width, initial-scale=1″>
     <title>Basic Bootstrap</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="https://github.com/GCalvinho/files/blob/master/manifest.json" />
 </head>
+
 
 <body>
 <div class="container">
